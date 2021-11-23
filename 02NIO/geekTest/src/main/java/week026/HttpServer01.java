@@ -1,4 +1,4 @@
-package com.geekbang;
+package week026;
 
 import java.io.IOException;
 import java.io.PrintWriter;

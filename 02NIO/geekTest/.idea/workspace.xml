@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="676647b4-77c8-444f-9456-2369a0c03913" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20VDGXfTP9rqhRTDDebNip5OXE4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/week024" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAFiles\geekTest\src\main\java\week02-4" />
+      <recent name="D:\IDEAFiles\geekTest\src\main\java\com\geekbang" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAFiles\geekTest\src\main\java\com\geekbang\week03\netty" />
+      <recent name="D:\IDEAFiles\geekTest\src\main\java\week03-1" />
+      <recent name="D:\IDEAFiles\geekTest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HttpServer01">
+    <configuration name="GCLogAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GCLogAnalysis" />
+      <module name="geekTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClient01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week026.HttpClient01" />
+      <module name="geekTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week026.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClient01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbang.HttpClient01" />
+      <module name="geekTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServer01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week026.HttpServer01" />
+      <module name="geekTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week026.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week026.HttpServer01" />
+      <module name="geekTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyHttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbang.week03.NettyHttpServer" />
+      <module name="geekTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbang.week03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HttpClient01" />
+      <item itemvalue="Application.HttpServer01" />
+      <item itemvalue="Application.NettyHttpServer" />
+      <item itemvalue="Application.HttpServer01 (1)" />
+      <item itemvalue="Application.HttpClient01 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyHttpServer" />
+        <item itemvalue="Application.HttpServer01" />
+        <item itemvalue="Application.HttpClient01 (1)" />
+        <item itemvalue="Application.HttpServer01 (1)" />
+        <item itemvalue="Application.HttpClient01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="676647b4-77c8-444f-9456-2369a0c03913" name="Default Changelist" comment="" />
+      <created>1636120765325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636120765325</updated>
+      <workItem from="1636120770214" duration="3489000" />
+      <workItem from="1636164316404" duration="5094000" />
+      <workItem from="1636513002232" duration="1665000" />
+      <workItem from="1636514723601" duration="605000" />
+      <workItem from="1636642578797" duration="995000" />
+      <workItem from="1636812176996" duration="3099000" />
+      <workItem from="1636855190712" duration="11246000" />
+      <workItem from="1636940050972" duration="51000" />
+      <workItem from="1637508076065" duration="1048000" />
+      <workItem from="1637569213253" duration="562000" />
+      <workItem from="1637570011400" duration="4318000" />
+      <workItem from="1637634221644" duration="2058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637573237115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="441" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1637573237115" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1637634643429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1637634643429" />
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1636642628903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1636642628903" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1637569778449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1637569778449" />
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1637636033039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637636033039" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1637636033039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637636033039" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1637636033039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637636033039" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1637636033039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637636033039" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1636813313832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636813313832" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1636813313832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1636813313832" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1636813313832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1636813313832" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1636813313832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1636813313832" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1636869909515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1636869909515" />
+    <state x="565" y="193" key="chooseDestDirectoryDialog" timestamp="1637508469704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="193" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1637508469704" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1637634247921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1637634247921" />
+  </component>
+</project>
